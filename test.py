@@ -1,18 +1,7 @@
 
 #%%
 import fun
-fun.greet('bda')
+fun.greet('gadi', 20)
 
 
 
-
-
-
-
-
-# %%
-
-
-fun.greet('gai')
-
-# %%
